@@ -184,7 +184,7 @@ function App() {
     const config = await configResponse.json();
     SET_CONFIG(config);
   };
-
+  // func
   useEffect(() => {
     getConfig();
   }, []);
