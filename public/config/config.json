@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1918147396461FfbEdEBAfEf38f5721E10F10262",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1918147396461FfbEdEBAfEf38f5721E10F10262",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dragon Eyes",
+  "SYMBOL": "DE",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dragoneye-v2",
+  "SHOW_BACKGROUND": true
+}
